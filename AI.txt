@@ -1,0 +1,15 @@
+p: The lion is roaring
+¬p: The lion is not roaring
+
+p: The sun is not shining
+¬p: The sun is shining
+
+Examples of ¬ with complex statements
+
+p: The lion is roaring
+q: The birds are chirping
+¬(p V q): Neither the lion is roaring nor the birds are chirping
+
+p: The lion is roaring
+q: The birds are not chirping
+¬(p V q): The lion is not roaring and the birds are chirpingThe symbols used to represent the negation of a statement are “~” or “¬”. For example, the given sentence is “Arjun's dog has a black tail”. Then, the negation of the given statement is “Arjun's dog does not have a black tail”. Thus, if the given statement is true, then the negation of the given statement is false.
